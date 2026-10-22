@@ -1,0 +1,264 @@
+{
+  "slug": "dental",
+  "businessName": "Smile Craft Dental Clinic",
+  "tagline": "Gentle dentistry, crafted around your smile.",
+  "subline": "Painless root canals, clear aligners and same-day smile makeovers — a short walk from CSMT station and Flora Fountain.",
+  "industry": "Dental clinic",
+  "schemaType": "Dentist",
+  "colors": {
+    "primary": "#0B7A7D",
+    "secondary": "#123C5A",
+    "accent": "#FF7A59",
+    "bg": "#F3FAF9",
+    "text": "#12303F"
+  },
+  "font": {
+    "heading": "Fraunces",
+    "body": "DM Sans"
+  },
+  "logoText": "Smile Craft",
+  "logoIcon": "Smile",
+  "phone": "+91 86919 69772",
+  "whatsapp": "918691969772",
+  "whatsappMessage": "Hi Smile Craft Dental! I'd like to book an appointment. (Demo enquiry)",
+  "email": "hello@smilecraft.example",
+  "address": "2nd Floor, Heritage Chambers, Dr. D.N. Road, Fort, Mumbai 400001 (sample)",
+  "mapEmbedQuery": "Dr. D.N. Road, Fort, Mumbai 400001",
+  "slotMinutes": 30,
+  "hours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "16:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "closed",
+      "close": "closed"
+    }
+  ],
+  "areasServed": [
+    "Fort",
+    "Kala Ghoda",
+    "Churchgate",
+    "Colaba",
+    "Nariman Point",
+    "CSMT",
+    "Marine Lines",
+    "Masjid Bunder",
+    "Cuffe Parade",
+    "Grant Road"
+  ],
+  "trustChips": [
+    {
+      "label": "Experience",
+      "value": "12+ yrs"
+    },
+    {
+      "label": "Happy patients",
+      "value": "8,000+"
+    },
+    {
+      "label": "Google rating",
+      "value": "4.9★ (sample)"
+    },
+    {
+      "label": "Emergency slots",
+      "value": "Same day"
+    }
+  ],
+  "services": [
+    {
+      "id": "cleaning",
+      "title": "Scaling & Polishing",
+      "description": "Ultrasonic scaling, stain removal and a fluoride finish. Takes 30 minutes, with zero sensitivity for most patients.",
+      "icon": "Sparkles",
+      "priceFrom": "₹1,200"
+    },
+    {
+      "id": "rct",
+      "title": "Painless Root Canal",
+      "description": "Single-visit rotary root canal under local anaesthesia, finished with a ceramic-fused crown on the same week.",
+      "icon": "ShieldCheck",
+      "priceFrom": "₹4,500"
+    },
+    {
+      "id": "whitening",
+      "title": "Teeth Whitening",
+      "description": "In-chair LED whitening that lifts chai and coffee stains up to 6 shades in a single 60-minute sitting.",
+      "icon": "Sun",
+      "priceFrom": "₹6,500"
+    },
+    {
+      "id": "aligners",
+      "title": "Clear Aligners",
+      "description": "Nearly invisible aligners planned on a 3D scan, so you can fix crowding without metal braces at your office desk.",
+      "icon": "Layers",
+      "priceFrom": "₹55,000"
+    },
+    {
+      "id": "implants",
+      "title": "Dental Implants",
+      "description": "Titanium implants with digital guided placement and a lifetime-care plan. Free CBCT review during consultation.",
+      "icon": "Crown",
+      "priceFrom": "₹28,000"
+    },
+    {
+      "id": "kids",
+      "title": "Kids' Dentistry",
+      "description": "Cavity fillings, sealants and first-visit 'happy checks' in a calm corner with stories and sticker rewards.",
+      "icon": "Baby",
+      "priceFrom": "₹800"
+    }
+  ],
+  "about": {
+    "name": "Dr. Meher Kapadia",
+    "title": "Founder & Lead Prosthodontist",
+    "qualifications": [
+      "BDS — Sample Dental College, Mumbai",
+      "MDS, Prosthodontics & Implantology",
+      "Certified clear-aligner provider",
+      "Member, Indian Dental Association (sample)"
+    ],
+    "bio": "Dr. Meher started Smile Craft after a decade of hospital practice in South Mumbai, where she saw too many people put off dental care because it felt rushed and scary. Here, every visit begins with a ten-minute conversation, a clear written estimate in rupees, and a promise of no surprise add-ons. The clinic keeps a strict single-use instrument policy and runs on appointment slots, so you are out in time for your 6:12 from CSMT.",
+    "image": "/img/dental/about.jpg"
+  },
+  "gallery": [
+    {
+      "src": "/img/dental/gallery-1.jpg",
+      "alt": "Bright reception area with black chairs and a plant",
+      "caption": "Calm reception, no long waits"
+    },
+    {
+      "src": "/img/dental/gallery-2.jpg",
+      "alt": "Treatment room with a modern dental chair and equipment",
+      "caption": "Ergonomic treatment suite"
+    },
+    {
+      "src": "/img/dental/gallery-3.jpg",
+      "alt": "Dentist pointing at a 3D dental scan on a tablet",
+      "caption": "Digital X-ray and 3D scans"
+    },
+    {
+      "src": "/img/dental/gallery-4.jpg",
+      "alt": "Dental mirror and explorer instrument",
+      "caption": "Sterilised, single-use instruments"
+    },
+    {
+      "src": "/img/dental/gallery-5.jpg",
+      "alt": "Dentist examining a young boy's teeth",
+      "caption": "Gentle care for kids"
+    },
+    {
+      "src": "/img/dental/gallery-6.jpg",
+      "alt": "Close-up of a bright white smile",
+      "caption": "Smile makeovers, planned digitally"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rhea S.",
+      "area": "Churchgate",
+      "rating": 5,
+      "text": "I put off my root canal for two years. Dr. Meher finished it in one sitting during my lunch break, and I was back at my desk by 2:30. Genuinely painless."
+    },
+    {
+      "name": "Imran K.",
+      "area": "Colaba",
+      "rating": 5,
+      "text": "Got my clear aligner plan with a written estimate up front. No pushy upsell, and the clinic sent reminders on WhatsApp before every visit."
+    },
+    {
+      "name": "Mrs. D'Souza",
+      "area": "Kala Ghoda",
+      "rating": 5,
+      "text": "Brought my 6-year-old for her first check-up. She came out with a sticker and zero tears. We are now a regular family here."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a root canal really painless?",
+      "a": "Yes. We use a topical gel, then a slow computer-assisted local anaesthetic, so most patients feel only pressure. Mild soreness for a day is normal and is managed with a standard painkiller."
+    },
+    {
+      "q": "How much will my treatment cost?",
+      "a": "You get a written estimate in rupees before any work starts. Prices on this page are starting prices; the final amount depends on your case, and we never add procedures without asking."
+    },
+    {
+      "q": "Do you accept dental insurance or cashless claims?",
+      "a": "We provide detailed invoices and treatment reports for reimbursement claims. Cashless tie-ups vary by insurer, so please message us on WhatsApp before your visit."
+    },
+    {
+      "q": "How long does a clear-aligner treatment take?",
+      "a": "Mild crowding usually takes 6 to 9 months, moderate cases 12 to 18 months. You visit every 6 to 8 weeks, which is easy to fit around a Fort office schedule."
+    },
+    {
+      "q": "Do you treat dental emergencies?",
+      "a": "Yes. We keep a few same-day slots every working day for toothache, broken teeth and lost fillings. Call us before 4 PM on weekdays and we will fit you in."
+    },
+    {
+      "q": "What are your timings and how do I reach the clinic?",
+      "a": "We are open Monday to Friday 10 AM to 7 PM and Saturday 10 AM to 4 PM. The clinic is a 5-minute walk from CSMT station and Flora Fountain, with paid parking at the Hutatma Chowk lot."
+    }
+  ],
+  "ui": {
+    "bookCta": "Book Appointment",
+    "callCta": "Call clinic",
+    "servicesEyebrow": "Treatments",
+    "servicesTitle": "Everything your smile needs, under one roof",
+    "servicesSubtitle": "Transparent starting prices. Tap a treatment to pick it in the booking form.",
+    "serviceCardCta": "Book this",
+    "aboutEyebrow": "Meet your dentist",
+    "galleryEyebrow": "Inside the clinic",
+    "galleryTitle": "A clinic that does not feel like a clinic",
+    "reviewsEyebrow": "Patient stories",
+    "reviewsTitle": "Loved by Fort's office-goers and families",
+    "faqEyebrow": "Good to know",
+    "faqTitle": "Questions we hear every day",
+    "bookEyebrow": "Book online",
+    "bookTitle": "Pick a day and time that suits you",
+    "bookSubtitle": "Takes under a minute. We confirm every booking on WhatsApp.",
+    "serviceField": "Treatment",
+    "notesPlaceholder": "Anything we should know? (e.g. tooth pain on the lower right)",
+    "successTitle": "Appointment requested!",
+    "contactTitle": "Find us in the heart of Fort"
+  },
+  "seo": {
+    "title": "Smile Craft Dental Clinic — Painless Dentist in Fort, Mumbai",
+    "description": "Painless root canals, clear aligners, whitening and implants in Fort, Mumbai. Book online in under a minute. Demo — sample data.",
+    "ogImage": "/og?theme=dental",
+    "keywords": [
+      "dentist in Fort Mumbai",
+      "root canal Fort",
+      "clear aligners Mumbai",
+      "teeth whitening South Mumbai",
+      "dental clinic near CSMT"
+    ]
+  },
+  "illustration": "dental"
+}

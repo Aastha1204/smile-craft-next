@@ -1,0 +1,264 @@
+{
+  "slug": "property",
+  "businessName": "Fort Heritage Realty",
+  "tagline": "Find your place in South Mumbai's most storied neighbourhoods.",
+  "subline": "Trusted advisers for homes, offices and redevelopment across Fort, Kala Ghoda, Colaba and Nariman Point — with every document checked before you sign.",
+  "industry": "Real estate agency",
+  "schemaType": "RealEstateAgent",
+  "colors": {
+    "primary": "#8E6322",
+    "secondary": "#12263A",
+    "accent": "#2F7F6F",
+    "bg": "#FAF7F2",
+    "text": "#1C2530"
+  },
+  "font": {
+    "heading": "Playfair Display",
+    "body": "Manrope"
+  },
+  "logoText": "Fort Heritage",
+  "logoIcon": "Building2",
+  "phone": "+91 86919 69772",
+  "whatsapp": "918691969772",
+  "whatsappMessage": "Hi Fort Heritage Realty! I'd like to schedule a site visit. (Demo enquiry)",
+  "email": "desk@fortheritage.example",
+  "address": "Ground Floor, Heritage Arcade, Perin Nariman Street, Fort, Mumbai 400001 (sample)",
+  "mapEmbedQuery": "Perin Nariman Street, Fort, Mumbai 400001",
+  "slotMinutes": 60,
+  "hours": [
+    {
+      "day": "Monday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Friday",
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "11:00",
+      "close": "15:00"
+    }
+  ],
+  "areasServed": [
+    "Fort",
+    "Kala Ghoda",
+    "Colaba",
+    "Nariman Point",
+    "Cuffe Parade",
+    "Churchgate",
+    "Marine Drive",
+    "Malabar Hill",
+    "Ballard Estate",
+    "Girgaon"
+  ],
+  "trustChips": [
+    {
+      "label": "In South Mumbai",
+      "value": "18+ yrs"
+    },
+    {
+      "label": "Families settled",
+      "value": "1,200+"
+    },
+    {
+      "label": "Client rating",
+      "value": "4.9★ (sample)"
+    },
+    {
+      "label": "Legal checks",
+      "value": "100% verified"
+    }
+  ],
+  "services": [
+    {
+      "id": "buy",
+      "title": "Buy a Home",
+      "description": "Curated 1 to 4 BHK resale and under-construction flats in Fort, Colaba and Cuffe Parade, with RERA and title checks done first.",
+      "icon": "Home",
+      "priceFrom": "Flats from ₹2.4 Cr"
+    },
+    {
+      "id": "rent",
+      "title": "Rent & Leave-and-License",
+      "description": "Furnished and unfurnished homes for professionals and families, with a registered 11-month agreement handled end to end.",
+      "icon": "KeyRound",
+      "priceFrom": "From ₹45,000 / month"
+    },
+    {
+      "id": "sell",
+      "title": "Sell or Let Your Property",
+      "description": "Free market valuation, professional photos and a verified buyer shortlist, so you only meet serious, pre-qualified clients.",
+      "icon": "TrendingUp",
+      "priceFrom": "Free valuation"
+    },
+    {
+      "id": "commercial",
+      "title": "Office & Commercial Spaces",
+      "description": "Heritage-building offices, studios and showrooms in the Fort business district, from compact 300 sq ft to full floors.",
+      "icon": "Building2",
+      "priceFrom": "From ₹150 / sq ft"
+    },
+    {
+      "id": "redevelopment",
+      "title": "Redevelopment Advisory",
+      "description": "Guidance for old-building societies on developer selection, corpus and rent terms, and tenant-friendly agreements.",
+      "icon": "Landmark",
+      "priceFrom": "Free first meeting"
+    },
+    {
+      "id": "legal",
+      "title": "Documentation & Registration",
+      "description": "Agreement drafting, stamp duty, registration and society transfer support, coordinated with trusted advocates.",
+      "icon": "FileText",
+      "priceFrom": "From ₹7,500"
+    }
+  ],
+  "about": {
+    "name": "Rohan Mehta",
+    "title": "Founder & Principal Adviser",
+    "qualifications": [
+      "18 years in South Mumbai real estate",
+      "RERA-registered agent (sample no.)",
+      "Certified valuer — sample institute",
+      "Advisory member, Fort Heritage Societies Forum (sample)"
+    ],
+    "bio": "Rohan grew up in a Fort chawl-turned-apartment building, and has since helped over a thousand families buy, rent and redevelop in the island city. His approach is simple: show fewer, better properties, explain every rupee of cost including stamp duty and society charges, and walk away from any deal with an unclear title. The team is small by design, so every client deals directly with a senior adviser.",
+    "image": "/img/property/about.jpg"
+  },
+  "gallery": [
+    {
+      "src": "/img/property/gallery-1.jpg",
+      "alt": "Heritage municipal building in Fort, Mumbai",
+      "caption": "Heritage landmarks of Fort"
+    },
+    {
+      "src": "/img/property/gallery-2.jpg",
+      "alt": "Sea-facing dining and living area with large windows",
+      "caption": "Sea-facing homes, Cuffe Parade"
+    },
+    {
+      "src": "/img/property/gallery-3.jpg",
+      "alt": "Characterful office with exposed ceiling and plants",
+      "caption": "Offices near Hutatma Chowk"
+    },
+    {
+      "src": "/img/property/gallery-4.jpg",
+      "alt": "Bright studio apartment with a large window",
+      "caption": "Bright studios, Kala Ghoda"
+    },
+    {
+      "src": "/img/property/gallery-5.jpg",
+      "alt": "Hand holding house keys at a flat entrance",
+      "caption": "Keys handed over, paperwork done"
+    },
+    {
+      "src": "/img/property/gallery-6.jpg",
+      "alt": "Marine Drive curve and Mumbai skyline at dusk",
+      "caption": "Marine Drive after dark"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Neha & Karan P.",
+      "area": "Colaba",
+      "rating": 5,
+      "text": "They showed us four flats instead of forty, and flagged a title issue in one before we even asked. We closed in six weeks with no hidden costs."
+    },
+    {
+      "name": "Sanjay V.",
+      "area": "Nariman Point",
+      "rating": 5,
+      "text": "Found a heritage-building office for our chartered accountancy firm within a week. The rent negotiation saved us nearly ₹18,000 a month."
+    },
+    {
+      "name": "Mrs. Irani",
+      "area": "Ballard Estate",
+      "rating": 5,
+      "text": "Our old society needed redevelopment advice. Rohan explained every clause in plain language and attended all our committee meetings."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is your brokerage?",
+      "a": "Brokerage is shared upfront in writing: typically 1% on resale purchases and one month's rent on leave-and-license deals. There are no other fees and nothing is charged before you sign."
+    },
+    {
+      "q": "Do you verify titles and RERA registration?",
+      "a": "Yes. Before a property is listed with us, we check the title chain, society NOC, occupation certificate and, where applicable, the RERA registration of the project."
+    },
+    {
+      "q": "Can NRIs buy or rent through you?",
+      "a": "Yes. We handle video walkthroughs, power-of-attorney paperwork and coordination with your CA for NRI purchases, and can manage the home after you buy."
+    },
+    {
+      "q": "How is stamp duty and registration charged?",
+      "a": "Stamp duty and registration are paid to the government at actuals. We give you a complete cost sheet, covering stamp duty, registration, legal fees and society charges, before you commit."
+    },
+    {
+      "q": "Do you help owners redevelop old buildings?",
+      "a": "We advise societies on selecting a developer, negotiating corpus and rent terms, and protecting tenant rights. The first meeting is free and carries no obligation."
+    },
+    {
+      "q": "How do I arrange a site visit?",
+      "a": "Use the booking form below to pick a day and time. An adviser will confirm on WhatsApp and meet you at the property. Sunday visits are available from 11 AM to 3 PM."
+    }
+  ],
+  "ui": {
+    "bookCta": "Schedule Visit",
+    "callCta": "Call us",
+    "servicesEyebrow": "What we do",
+    "servicesTitle": "Property services, handled start to finish",
+    "servicesSubtitle": "Clear starting figures. Tap a service to select it for your site visit.",
+    "serviceCardCta": "Enquire",
+    "aboutEyebrow": "Meet your adviser",
+    "galleryEyebrow": "Featured spaces",
+    "galleryTitle": "South Mumbai, at its best",
+    "reviewsEyebrow": "Client stories",
+    "reviewsTitle": "Trusted by families and firms across the island city",
+    "faqEyebrow": "Good to know",
+    "faqTitle": "Questions buyers and tenants ask",
+    "bookEyebrow": "Site visit",
+    "bookTitle": "Choose when you would like to visit",
+    "bookSubtitle": "An adviser confirms every visit on WhatsApp within the hour.",
+    "serviceField": "Interested in",
+    "notesPlaceholder": "Budget, BHK, preferred area (e.g. 2 BHK in Colaba, up to ₹3 Cr)",
+    "successTitle": "Visit requested!",
+    "contactTitle": "Drop by our Fort office"
+  },
+  "seo": {
+    "title": "Fort Heritage Realty — Homes & Offices in Fort, South Mumbai",
+    "description": "Buy, rent or sell property in Fort, Colaba and Nariman Point with verified titles and honest advice. Schedule a visit. Demo — sample data.",
+    "ogImage": "/og?theme=property",
+    "keywords": [
+      "real estate agent Fort Mumbai",
+      "flats in Colaba",
+      "office space Fort Mumbai",
+      "South Mumbai property",
+      "leave and license Mumbai"
+    ]
+  },
+  "illustration": "property"
+}

@@ -1,0 +1,264 @@
+{
+  "slug": "coaching",
+  "businessName": "Bright Minds Coaching Classes",
+  "tagline": "Small batches. Big confidence. Better marks.",
+  "subline": "Expert-led classes for Std 8–10, HSC Commerce and entrance exams, right next to Hutatma Chowk in Fort — with weekly tests and a free doubt-solving hour.",
+  "industry": "Coaching classes",
+  "schemaType": "EducationalOrganization",
+  "colors": {
+    "primary": "#5B3FD9",
+    "secondary": "#1F1A4D",
+    "accent": "#FFB020",
+    "bg": "#F8F6FF",
+    "text": "#1B1840"
+  },
+  "font": {
+    "heading": "Poppins",
+    "body": "Inter"
+  },
+  "logoText": "Bright Minds",
+  "logoIcon": "GraduationCap",
+  "phone": "+91 86919 69772",
+  "whatsapp": "918691969772",
+  "whatsappMessage": "Hi Bright Minds! I'd like to book a free demo class. (Demo enquiry)",
+  "email": "admissions@brightminds.example",
+  "address": "3rd Floor, Scholars' Court, Veer Nariman Road, Fort, Mumbai 400001 (sample)",
+  "mapEmbedQuery": "Veer Nariman Road, Fort, Mumbai 400001",
+  "slotMinutes": 60,
+  "hours": [
+    {
+      "day": "Monday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Tuesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Friday",
+      "open": "08:00",
+      "close": "20:00"
+    },
+    {
+      "day": "Saturday",
+      "open": "08:00",
+      "close": "17:00"
+    },
+    {
+      "day": "Sunday",
+      "open": "09:00",
+      "close": "13:00"
+    }
+  ],
+  "areasServed": [
+    "Fort",
+    "Churchgate",
+    "Marine Lines",
+    "Colaba",
+    "Kala Ghoda",
+    "Grant Road",
+    "Mumbai Central",
+    "Byculla",
+    "Girgaon",
+    "CSMT"
+  ],
+  "trustChips": [
+    {
+      "label": "Teaching",
+      "value": "15+ yrs"
+    },
+    {
+      "label": "Students taught",
+      "value": "6,500+"
+    },
+    {
+      "label": "Student rating",
+      "value": "4.8★ (sample)"
+    },
+    {
+      "label": "Batch size",
+      "value": "Max 15"
+    }
+  ],
+  "services": [
+    {
+      "id": "ssc",
+      "title": "Std 8–10 Maths & Science",
+      "description": "SSC, CBSE and ICSE board-aligned batches with chapter-wise tests, worksheets and a monthly parent report.",
+      "icon": "Calculator",
+      "priceFrom": "₹2,500 / month"
+    },
+    {
+      "id": "hsc",
+      "title": "HSC Commerce",
+      "description": "Accountancy, Economics, OCM and Maths taught by subject specialists, with a full board-paper practice plan.",
+      "icon": "BookOpen",
+      "priceFrom": "₹3,000 / month"
+    },
+    {
+      "id": "cet",
+      "title": "MHT-CET & JEE Foundation",
+      "description": "Concept-first Physics, Chemistry and Maths for Std 11–12, with timed mock tests that mirror the real exam pattern.",
+      "icon": "Target",
+      "priceFrom": "₹4,500 / month"
+    },
+    {
+      "id": "english",
+      "title": "Spoken English & Personality",
+      "description": "Twice-a-week speaking practice, presentation drills and interview prep for school kids and college freshers.",
+      "icon": "MessageCircle",
+      "priceFrom": "₹1,800 / month"
+    },
+    {
+      "id": "ca",
+      "title": "CA Foundation",
+      "description": "Accounts, Law, Maths and Economics in a focused 5-month track with revision weeks and past-paper analysis.",
+      "icon": "Landmark",
+      "priceFrom": "₹6,000 / month"
+    },
+    {
+      "id": "olympiad",
+      "title": "Olympiad & Scholarship Prep",
+      "description": "Weekend problem-solving circles for Std 5–9 students targeting science, maths and NTSE-style scholarships.",
+      "icon": "Trophy",
+      "priceFrom": "₹1,500 / month"
+    }
+  ],
+  "about": {
+    "name": "Prof. Nandini Rao",
+    "title": "Founder & Head of Academics",
+    "qualifications": [
+      "M.Sc. Mathematics, University of Mumbai",
+      "B.Ed., Sample Teachers' College",
+      "15 years teaching Std 8–12",
+      "Former HSC paper moderator (sample)"
+    ],
+    "bio": "Prof. Nandini began tutoring five students in a Marine Lines flat and built Bright Minds on one idea: no child should feel lost in a crowded batch. Every class is capped at fifteen students, every student sits a weekly test, and parents receive a simple one-page progress note every month. Her team of subject teachers hold open doubt-solving hours every evening, so questions never wait until the next lecture.",
+    "image": "/img/coaching/about.jpg"
+  },
+  "gallery": [
+    {
+      "src": "/img/coaching/gallery-1.jpg",
+      "alt": "Classroom with wooden desks and a chalkboard",
+      "caption": "Classrooms with 15 seats max"
+    },
+    {
+      "src": "/img/coaching/gallery-2.jpg",
+      "alt": "Student solving maths equations on a chalkboard",
+      "caption": "Problem-solving at the board"
+    },
+    {
+      "src": "/img/coaching/gallery-3.jpg",
+      "alt": "Teacher and student doing a science experiment",
+      "caption": "Hands-on science demos"
+    },
+    {
+      "src": "/img/coaching/gallery-4.jpg",
+      "alt": "Long library aisle with bookshelves and warm lights",
+      "caption": "Quiet library for self-study"
+    },
+    {
+      "src": "/img/coaching/gallery-5.jpg",
+      "alt": "Laboratory glassware for chemistry practicals",
+      "caption": "Hands-on lab practicals"
+    },
+    {
+      "src": "/img/coaching/gallery-6.jpg",
+      "alt": "Student taking an online test on a laptop",
+      "caption": "Weekly mock tests with analysis"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Anjali M. (parent)",
+      "area": "Marine Lines",
+      "rating": 5,
+      "text": "My son went from 62% to 81% in Maths in one term. The monthly parent note tells us exactly which chapters need work."
+    },
+    {
+      "name": "Kabir S. (Std 12)",
+      "area": "Colaba",
+      "rating": 5,
+      "text": "The CET mock tests felt just like the real paper. Doubt hour after college saved me before the exam."
+    },
+    {
+      "name": "Farah T. (parent)",
+      "area": "Grant Road",
+      "rating": 5,
+      "text": "Small batch, patient teachers and the centre is two minutes from the station. My daughter now actually looks forward to Saturday classes."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can we attend a free demo class before joining?",
+      "a": "Yes. Every course has a free demo lecture. Book a slot below, pick a subject, and bring your child's latest report card so the teacher can suggest the right batch."
+    },
+    {
+      "q": "What is the maximum batch size?",
+      "a": "We cap every batch at 15 students so each child gets individual attention. Once a batch is full, we open a new one rather than adding more desks."
+    },
+    {
+      "q": "Do you teach the SSC, CBSE and ICSE boards?",
+      "a": "Yes. Batches are board-specific for Std 8 to 10 and HSC Commerce, so the syllabus, sample papers and test patterns match what your child will face."
+    },
+    {
+      "q": "How do parents track progress?",
+      "a": "Students take a weekly test. Parents get a one-page monthly report on WhatsApp covering attendance, test scores and teacher comments, and can book a one-to-one call."
+    },
+    {
+      "q": "What are the fees and can they be paid in instalments?",
+      "a": "Fees start at the monthly price shown against each course. Quarterly and half-yearly plans carry a small discount, and the first instalment is refundable if you leave within 7 days."
+    },
+    {
+      "q": "What are the class timings?",
+      "a": "Weekday batches run from 8 AM to 8 PM, Saturdays until 5 PM, and Sunday mornings are for doubt-solving and mock tests. Evening batches are timed to finish before the 8:30 PM local trains."
+    }
+  ],
+  "ui": {
+    "bookCta": "Book Free Demo",
+    "callCta": "Call us",
+    "servicesEyebrow": "Courses",
+    "servicesTitle": "Courses built for every stage of school and beyond",
+    "servicesSubtitle": "Fees shown per month. Tap a course to pick it for your free demo class.",
+    "serviceCardCta": "Book demo",
+    "aboutEyebrow": "Meet the founder",
+    "galleryEyebrow": "Inside the centre",
+    "galleryTitle": "A space where students want to be",
+    "reviewsEyebrow": "Parent & student voices",
+    "reviewsTitle": "Real progress, one test at a time",
+    "faqEyebrow": "Good to know",
+    "faqTitle": "Questions parents ask us most",
+    "bookEyebrow": "Free demo class",
+    "bookTitle": "Pick a demo slot that works for you",
+    "bookSubtitle": "No fees, no obligation. We confirm every slot on WhatsApp.",
+    "serviceField": "Course",
+    "notesPlaceholder": "Student's name, class and board (e.g. Aarav, Std 9, SSC)",
+    "successTitle": "Demo class requested!",
+    "contactTitle": "Visit us in Fort"
+  },
+  "seo": {
+    "title": "Bright Minds Coaching Classes — SSC, HSC & CET Tuition in Fort, Mumbai",
+    "description": "Small-batch coaching for Std 8–10, HSC Commerce, MHT-CET and CA Foundation in Fort, Mumbai. Book a free demo class. Demo — sample data.",
+    "ogImage": "/og?theme=coaching",
+    "keywords": [
+      "coaching classes in Fort Mumbai",
+      "HSC commerce tuition South Mumbai",
+      "MHT-CET coaching",
+      "SSC tuition Churchgate",
+      "CA foundation classes Mumbai"
+    ]
+  },
+  "illustration": "coaching"
+}
